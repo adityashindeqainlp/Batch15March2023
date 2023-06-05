@@ -9,7 +9,7 @@ public class ArrayListP2 {
 
 	public static void main(String[] args) {
 		
-		ArrayList<Integer> a = new ArrayList<Integer>();
+		ArrayList <Integer> ar = new ArrayList <Integer>();
 		
 	}
 }
