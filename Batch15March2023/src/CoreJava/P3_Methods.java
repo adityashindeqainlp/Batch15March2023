@@ -6,7 +6,7 @@ package CoreJava;
 public class P3_Methods {
 
 	// Defining Static method in class
-	public static void method1() {
+	 public static void method1() {
 
 		System.out.println("Method 1 is static method ");
 	}
