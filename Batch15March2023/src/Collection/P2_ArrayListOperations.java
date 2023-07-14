@@ -41,7 +41,7 @@ public class P2_ArrayListOperations {
 //		ArrayList<String> cloneAr1 = (ArrayList<String>) ar1.clone();
 //		System.out.println(cloneAr1);
 
-//		// Operation 5 Contains
+		// Operation 5 Contains
 //		boolean check = ar1.contains("Java");
 //		System.out.println(check);
 //		boolean check2 = ar1.indexOf("Pearl") < 0;
@@ -52,8 +52,8 @@ public class P2_ArrayListOperations {
 		ArrayList<String> list1 = new ArrayList<String>(
 				Arrays.asList("Aditya", "Hika", "Amarsan", "Mahdi", "Mohammad", "Mohamed", "Tom", "Jerry"));
 
-//		int p = list1.lastIndexOf("Tom");
-//		System.out.println(p);
+		int p = list1.lastIndexOf("Tom");
+		System.out.println(p);
 
 		// Operation 7 Remove
 
